@@ -1,0 +1,125 @@
+/* *{
+    box-sizing: border-box;
+}
+
+body{
+    margin:0;
+    font-family: 'Popins',sans-serif;
+}
+
+nav{
+    height: 70px;
+    display: flex;
+    background-color: rgb(206, 206, 206);
+    padding: 20px 36px;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0,0,0,0.1);
+}
+
+.nav--logo{
+    max-width:100px;
+}
+
+section{
+    padding: 20px;
+}
+.hero--header,.hero--text{
+    text-align: left;
+
+}
+
+.hero{
+    display: flex;
+    flex-direction: column;
+}
+
+.hero--photo{
+    max-width: 400px;
+    align-self: center;
+}
+
+.hero--header{
+    margin-bottom:16px ;
+}
+
+.hero--text{
+    margin-top: 0;
+}
+.card--list{
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 20px;
+    overflow-x: auto;
+}
+.card{
+width:175px;
+font-size: 12px;
+flex: 0 0 auto;
+display: flex;
+flex-direction: column;
+}
+.card--images{
+    width: 20%;
+    border-radius:9px ;
+    margin-bottom: 10px;
+
+}
+.card--title{
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.card--stats{
+    display:flex ;
+align-items:center;
+}
+.card--star{
+    height:16px;
+}
+
+.grey{
+    color:#918E9B;
+}
+
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .billa{
+    width: 20%;
+    border-radius:9px ;
+
+}
+
+
+.info-group{
+    display: flex;
+   
+}
+
+.call{
+    height: 40px;
+    width:25px;
+    align-items:center;
+    display:flex ;
+}
+
+.message{
+    height: 40px;
+    width:30px;
+    align-items: center;
+    display:flex ;
+} */
