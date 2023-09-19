@@ -27,8 +27,8 @@ export default function Main(){
 
 </section>
 
-<h1 className="hero--header">Online Experiences</h1>
-<p className="hero--text">Join unique interactive activities led by one-of-a-kind hosts—all without leaving home.
+<h1 className="hero--header">Pixify  Discover</h1>
+<p className="hero--text">Pixify" is a great choice for a picture-selling website. It's short, memorable, and has a modern and trendy feel. 
 </p>
 
         </seaction>
